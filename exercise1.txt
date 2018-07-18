@@ -1,0 +1,12 @@
+<html>
+<header>
+  <title>Oh No!</title>
+</header>
+
+<body>
+  <h1>Example 2</h1>
+  <p>Oh No!</p>
+  <div class="sprite"></div>
+</body>
+
+</html>
